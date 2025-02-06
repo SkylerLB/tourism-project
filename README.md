@@ -1,4 +1,4 @@
 # tourism-project
-Tourism in Lebanon
+Tourism in LB
 Done by R. Kassem & A.Haidar
 Uploaded on 6/2/25
